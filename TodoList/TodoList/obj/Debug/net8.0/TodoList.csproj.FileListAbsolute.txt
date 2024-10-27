@@ -1,0 +1,15 @@
+D:\C-sharp-and-Unity\TodoList\TodoList\bin\Debug\net8.0\TodoList.exe
+D:\C-sharp-and-Unity\TodoList\TodoList\bin\Debug\net8.0\TodoList.deps.json
+D:\C-sharp-and-Unity\TodoList\TodoList\bin\Debug\net8.0\TodoList.runtimeconfig.json
+D:\C-sharp-and-Unity\TodoList\TodoList\bin\Debug\net8.0\TodoList.dll
+D:\C-sharp-and-Unity\TodoList\TodoList\bin\Debug\net8.0\TodoList.pdb
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfoInputs.cache
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfo.cs
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.sourcelink.json
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.dll
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\refint\TodoList.dll
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
+D:\C-sharp-and-Unity\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
